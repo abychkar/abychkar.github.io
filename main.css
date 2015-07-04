@@ -104,7 +104,7 @@ img {
   text-align: center;
   margin-bottom: 35px; }
   .person img {
-    display: inline-block;
+    background: url(sasa.jpg);
     border-radius: 100% 100% 100% 100%;
     width:180px;
     height:180px; }
