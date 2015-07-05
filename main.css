@@ -111,6 +111,10 @@ img {
     width: 180px;
     height: 180px;
 }
+s_about li {
+  margin-bottom: 10px; }
+.s_about .social_wrap {
+  margin-top: 25px; }
 
 social_wrap li {
     display: inline-block;
